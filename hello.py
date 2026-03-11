@@ -1,1 +1,1 @@
-print("Jenkins CI triggered by GitHub webhook")
+print("Jenkins CI triggered")
